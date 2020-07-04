@@ -1,0 +1,47 @@
+{
+   "table": {
+      "student": [{
+         "name": "Иванов",
+         "otmetka": [{
+            "disciplina": "Мультимедиа",
+            "value": 3
+         }, {
+            "disciplina": "Веб-дизайн",
+            "value": 2
+         }, {
+            "disciplina": "Графика",
+            "value": 5
+         }]
+      }, {
+         "name": "Петров",
+         "otmetka": [{
+            "disciplina": "Мультимедиа",
+            "value": 2
+         }, {
+            "disciplina": "Веб-дизайн",
+            "value": 4
+         }, {
+            "disciplina": "Графика",
+            "value": 5
+         }, {
+            "disciplina": "Логика",
+            "value": 5
+         }]
+      }, {
+         "name": "Сидоренко",
+         "otmetka": [{
+            "disciplina": "Мультимедиа",
+            "value": 3
+         }, {
+            "disciplina": "Веб-дизайн",
+            "value": 4
+         }, {
+            "disciplina": "Графика",
+            "value": 5
+         }, {
+            "disciplina": "Логика",
+            "value": 4
+         }]
+      }]
+   }
+}
